@@ -1,9 +1,5 @@
 package com.hashbst;
 
-
-	
-	
-
 	public interface INode<K> 
 	{	
 			K getKey();
